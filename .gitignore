@@ -1,1 +1,1 @@
-Optional. If the file and line parameters are set, headers_sent() will put the PHP source file name and line number where output started in the file and line variables
+this is the simple query bilder class used in PHP mysql
